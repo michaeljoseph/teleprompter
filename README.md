@@ -7,7 +7,7 @@
 
 ## Overview
 
-Python Library Boilerplate contains all the boilerplate you need to create a Python package.
+Helping humans help robots prompt humans for information
 
 * features
 * and stuff 
